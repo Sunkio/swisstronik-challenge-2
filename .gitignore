@@ -2,6 +2,14 @@ node_modules
 .env
 **/.env*
 **.log*
+coverage
+coverage.json
+typechain
+typechain-types
+
+# HARDHAT FILES
+cache
+artifacts
 
 # MISC
 .DS_Store
